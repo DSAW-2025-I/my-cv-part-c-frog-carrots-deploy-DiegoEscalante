@@ -1,4 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Pu-tfUhR)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1X0oeuiC)
+
+Nombre: Diego Eduardo Escalante Garcia
+
+# Ejercicios
+## Flexbox Froggy
+![Flexbox Froggy](./assets/final_nombre.png)
+
+
+## Grid Garden
+![Grid Garden](./assets/final_zanahoria.png)
+
+
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
