@@ -2,6 +2,16 @@
 
 Nombre: Diego Eduardo Escalante Garcia
 
+# Ejercicios
+## Flexbox Froggy
+![Flexbox Froggy](./assets/final_nombre.png)
+
+
+## Grid Garden
+![Grid Garden](./assets/final_zanahoria.png)
+
+
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
