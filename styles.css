@@ -78,7 +78,7 @@ footer{
 }
 
 
-@media (max-width: 480px){
+@media (max-width: 768px){
     header{
         padding: 0.3rem;   
         h1{
@@ -118,10 +118,24 @@ footer{
         }
     }
     footer{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
         address{
-            font-size: 0.75rem;
+            font-size: 0.9rem;
 
         }
 
     }
 }
+
+@media (max-width: 480px){
+    footer{
+        padding-top: 0.85rem;
+        padding-bottom: 0.85rem;
+        address{
+            font-size: 0.8rem;
+        }
+    }
+
+}
+
